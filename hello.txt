@@ -1,0 +1,4 @@
+
+hi thi is karunasri
+this is my first file in the git
+am adding one more row for second commIt
